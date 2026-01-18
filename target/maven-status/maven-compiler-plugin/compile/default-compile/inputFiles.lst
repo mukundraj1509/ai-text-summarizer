@@ -1,0 +1,6 @@
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\dto\SummarizeRequest.java
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\service\OpenAiService.java
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\AiTextSummarizerApplication.java
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\dto\SummarizeResponse.java
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\exception\GlobalExceptionHandler.java
+E:\Assignment\ai-text-summarizer\src\main\java\com\assignment\ai\controller\TextSummarizerController.java

@@ -1,0 +1,6 @@
+com\assignment\ai\service\OpenAiService.class
+com\assignment\ai\AiTextSummarizerApplication.class
+com\assignment\ai\controller\TextSummarizerController.class
+com\assignment\ai\dto\SummarizeResponse.class
+com\assignment\ai\exception\GlobalExceptionHandler.class
+com\assignment\ai\dto\SummarizeRequest.class
